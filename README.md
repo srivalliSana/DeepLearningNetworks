@@ -90,9 +90,7 @@ Contributions are welcome! If you'd like to improve the code, fix bugs, or add n
 4. Push your branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -103,4 +101,4 @@ For any queries, feel free to reach out to:
 
 ---
 
-This README file should be updated with details from the actual notebooks and the specific methods you've implemented. Additionally, if you have a `requirements.txt` file or datasets associated with the models, mention them as needed.
+
